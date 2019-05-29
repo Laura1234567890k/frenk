@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rebane>
+	<kõrvad>
+		<kõrv />
+		<kõrv />
+	</kõrvad>
+	<pea>
+		<silmad>
+			<silm />
+			<silm />
+		</silmad>
+		<nina />
+	</pea>
+	<keha>
+		<käppad>
+			<käpp />
+			<käpp />
+		</käppad>
+	</keha>
+</rebane>
